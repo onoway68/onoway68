@@ -38,7 +38,7 @@ A RAG-based AI prototype using trusted medical manuals to support clinical quest
 
 **Focus:** RAG, prompt engineering, medical knowledge retrieval, clinical decision-support concepts, healthcare AI safety.
 
-Repository: `[Add repository link]`
+Repository: https://github.com/onoway68/Medical-Assistant-RAG
 
 ---
 
