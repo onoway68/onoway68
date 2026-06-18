@@ -29,7 +29,7 @@ A healthcare-first AI platform concept focused on clinical workflow intelligence
 
 **Focus:** Healthcare AI, AI platform architecture, clinical workflow intelligence, responsible AI, MLOps-aware product design.
 
-Repository: `[Add DA Tech repository link]`
+Repository: ` https://github.com/onoway68/DA Tech Health AI Platform
 
 ---
 
