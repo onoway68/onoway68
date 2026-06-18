@@ -47,7 +47,7 @@ MLOps projects involving advertising sales prediction, model monitoring, data dr
 
 **Focus:** MLOps, model monitoring, SageMaker pipelines, automated ML workflows, production model reliability.
 
-Repository: `[Add repository link]`
+Repository: https://github.com/onoway68/MLOps-SageMaker
 
 ---
 
